@@ -1,0 +1,28 @@
+{
+  "dataset_id": "ds_1794808115_73928530",
+  "filename": "water_data.csv",
+  "filepath": "C:\\Users\\ronit\\AI-WaterWise\\data\\uploads\\water_data.csv",
+  "upload_timestamp": "2026-11-16T11:18:35.672925",
+  "file_hash": "9b24390c5399190ffda9449636007d1beafc2bd84059efd9535710f14dd1d977",
+  "records": 5500,
+  "columns": [
+    "timestamp",
+    "temperature",
+    "humidity",
+    "occupancy",
+    "day_of_week",
+    "is_holiday",
+    "tank_level",
+    "water_consumption"
+  ],
+  "upload_status": "success",
+  "is_processed": true,
+  "is_trained": true,
+  "split_info": {
+    "train_records": 3849,
+    "val_records": 826,
+    "test_records": 825
+  },
+  "start_date": "2025-01-01 00:00:00",
+  "end_date": "2025-12-08 23:00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "dataset_id": "ds_1794808115_73928530",
+  "dataset_hash": "9b24390c5399190ffda9449636007d1beafc2bd84059efd9535710f14dd1d977",
+  "trained_at": "2026-11-16T11:19:50.308664",
+  "filename": "water_data.csv",
+  "metrics": {
+    "dnn": {
+      "MAE": 73.2,
+      "RMSE": 96.53,
+      "R2": 0.9339
+    },
+    "lstm": {
+      "MAE": 92.79,
+      "RMSE": 139.61
+    },
+    "autoencoder": {
+      "threshold": 0.0039
+    },
+    "q_learning": {
+      "episodes": 3000,
+      "states_learned": 81
+    }
+  }
+}
